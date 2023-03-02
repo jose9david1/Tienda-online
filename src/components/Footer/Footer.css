@@ -1,0 +1,31 @@
+.footerEstilo{
+    display: flex;
+    
+    background-color: black;
+    color: blanchedalmond;
+    height: 33vh;
+    
+    
+    
+    
+}
+
+.copy{position:absolute;
+text-align: center;
+background-color: black;
+color: white;
+width: 100%;
+
+}
+
+.contacto{
+    margin-left: 230px;
+    width: 30%;
+    
+}
+
+.horario{
+    margin-left: 200px;
+    width: 30%;
+    
+}

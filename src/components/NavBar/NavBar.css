@@ -1,0 +1,39 @@
+.menu-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    box-shadow: rgba(0, 0, 0, 0.1 ) 0px 4px 12px;
+    height: 90px;
+    
+}
+
+.titulo-tienda{
+    margin-left: 25px;
+    color: blanchedalmond;
+    font-size: 35px;
+}
+
+.menu-items{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.menu-list{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15px;
+    margin-top: 20px;
+    font-size: 15px;
+    color: blanchedalmond;
+   
+}
+
+.menu-carrito{
+    display: flex;
+    margin-top: 33px;
+    margin-right: 20px;
+  
+    
+}
