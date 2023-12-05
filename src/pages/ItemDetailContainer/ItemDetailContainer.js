@@ -1,4 +1,4 @@
-import ItemDetail from "../../components/ItemDetail/ItemDetail"
+/*import ItemDetail from "../../components/ItemDetail/ItemDetail"
 import { useParams } from "react-router-dom"
 import { data } from '../../data/data'
 import { useEffect, useState } from "react"
@@ -24,4 +24,4 @@ const ItemDetailContainer = () => {
   )
 }
 
-export default ItemDetailContainer
+export default ItemDetailContainer*/

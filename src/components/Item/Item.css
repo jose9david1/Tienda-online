@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor-tarjetas{
+    background-color: aqua;
+}
+
+.imagen-articulo{
+    height: 150px;
+    width: 280px;
+}
